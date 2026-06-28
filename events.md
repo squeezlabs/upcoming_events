@@ -1,0 +1,5 @@
+- Germany | July 4 - 14, 2026
+- Zurich, Switzerland | July 15 - 18, 2026
+- London, UK | July 20, 2026
+- New York, NY | August 19 - 31, 2026
+- Black Rock City, NV | [Burning Man](https://burningman.org/black-rock-city/black-rock-city-2026/) | August 30 - September 7, 2026
