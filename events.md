@@ -3,5 +3,4 @@
 - London, UK | July 20, 2026
 - San Francisco, CA | [Studio 45](https://luma.com/odhr2288) | August 6, 2026
 - New York, NY | August 19 - 31, 2026
-- Black Rock City, NV | [Burning Man](https://burningman.org/black-rock-city/black-rock-city-2026/) | August 30 - September 7, 2026
 - Various cities, China | Fall 2026
