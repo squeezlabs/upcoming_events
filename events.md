@@ -3,4 +3,8 @@
 - London, UK | July 20, 2026
 - San Francisco, CA | [Studio 45](https://luma.com/odhr2288) | August 6, 2026
 - New York, NY | August 19 - 31, 2026
+- San Francisco, CA | [Bay Area AI Artists Meetup](https://www.meetup.com/bay-area-ai-artists/events/316379184/) | September 22, 2026
+- Zoom | [Near Future Laboratory Office Hours Nº326](https://luma.com/grs3kg03) | September 25, 2026
+- San Francisco, CA | [Supabase Select](https://select.supabase.com/) | October 2, 2026
+- San Jose, CA | Synaptics Tech Day 2026 | October 20, 2026
 - Various cities, China | Fall 2026
