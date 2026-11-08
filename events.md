@@ -8,4 +8,6 @@
 - San Francisco, CA | [Supabase Select](https://select.supabase.com/) | October 2, 2026
 - San Francisco, CA | [SF Hardware & Robotics Showcase](https://partiful.com/e/nb5OgG4Muhx5ENLSv0iR) | October 7, 2026
 - San Jose, CA | Synaptics Tech Day 2026 | October 20, 2026
+- Pasadena, CA | [Supercon](https://hackaday.io/superconference/) | November 6 - 8, 2026
+- Munich, Germany | [Electronica - Hall C5 Booth 100](https://electronica.de/en) | November 10 - 13, 2026
 - Various cities, China | Fall 2026
